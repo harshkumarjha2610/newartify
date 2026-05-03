@@ -48,8 +48,8 @@ export default function Header() {
 
   const isWhiteText = (resolvedTheme === "dark");
   const previousLogoSrc = !isWhiteText
-    ? "https://www.artifytechspace.com/images/logos/company-logo.png"
-    : "https://www.artifytechspace.com/images/logos/artify_techspace_logo_150px.png";
+    ? "/logo/LogoDark.png"
+    : "/logo/LogoLight.png";
   const newLogoSrc = isWhiteText 
     ? "/logo/Dark.png" 
     : "/logo/Light.png";

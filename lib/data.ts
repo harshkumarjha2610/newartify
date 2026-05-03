@@ -52,19 +52,19 @@ export const homeContent = {
         {
             headline: "We Build the Web with Art & Logic.",
             description: "Where creativity meets code — delivering stunning designs with seamless functionality.",
-            image: "https://www.artifytechspace.com/images/slide1.webp"
+            image: "download.mp4"
         },
         {
             headline: "Your Vision, Our Code. Let's Build Together.",
             description: "Partnering with you to turn big ideas into powerful digital experiences.",
-            image: "https://www.artifytechspace.com/images/slide3.webp"
+            image: "download.mp4"
         }
     ],
     about: {
         title: "About Artify Tech Space",
         subtitle: "Bringing Ideas to Life Through Design, Code, and Strategy",
         description: "At Artify Tech Space, we specialize in crafting innovative digital experiences tailored to your brand's goals. Whether you're a startup launching your online presence or an established business ready to scale, we're here to help you make a lasting impact in the digital world.",
-        image: "https://www.artifytechspace.com/images/about1.jpg",
+        image: "about1.webp",
         stats: [
             { label: "Projects Completed", value: 250, suffix: "+" },
             { label: "Years Experience", value: 10, suffix: "+" },

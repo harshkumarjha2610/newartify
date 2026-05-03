@@ -26,8 +26,8 @@ export default function Footer() {
 
   const currentTheme = resolvedTheme || theme;
   const logoSrc = currentTheme != "dark" 
-    ? "https://www.artifytechspace.com/images/logos/company-logo.png" 
-    : "https://www.artifytechspace.com/images/logos/artify_techspace_logo_150px.png";
+    ? "/logo/LogoLight.png" 
+    : "/logo/LogoDark.png";
   
   return (
     <footer className="bg-background border-t border-border pt-20 pb-10">
