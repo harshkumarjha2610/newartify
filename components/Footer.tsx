@@ -25,7 +25,7 @@ export default function Footer() {
   };
 
   const currentTheme = resolvedTheme || theme;
-  const logoSrc = currentTheme != "dark" 
+  const logoSrc = currentTheme == "dark" 
     ? "/logo/LogoLight.png" 
     : "/logo/LogoDark.png";
   
