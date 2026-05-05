@@ -138,7 +138,7 @@ export const homeContent = {
         title: "Why Choose Artify Tech Space",
         subtitle: "Your Growth-Driven Digital Partner",
         description: "We're not just another tech agency—we're your creative and strategic partner in digital transformation. We combine innovation, experience, and a people-first mindset to help brands thrive online.",
-        image: "https://www.artifytechspace.com/images/about.jpg",
+        image: "/images/about.jpg",
         reasons: [
             { title: "Client-Centric Approach", description: "We listen, collaborate, and tailor every solution to your unique goals and audience." },
             { title: "Creative + Technical Excellence", description: "We merge design and technology to deliver seamless and visually stunning digital experiences." },
@@ -154,17 +154,17 @@ export const homeContent = {
         items: [
             {
                 name: "Sophia Ramirez",
-                image: "https://www.artifytechspace.com/images/testimonials/Sophia Ramirez.webp",
+                image: "/images/testimonials/Sophia Ramirez.webp",
                 quote: "Artify Tech Space transformed our online presence. Their team is professional, creative, and results-driven. Highly recommend!"
             },
             {
                 name: "Marcus Tan",
-                image: "https://www.artifytechspace.com/images/testimonials/Marcus Tan.webp",
+                image: "/images/testimonials/Marcus Tan.webp",
                 quote: "The best decision we made was partnering with Artify Tech Space. They delivered beyond our expectations!"
             },
             {
                 name: "Elena Morales",
-                image: "https://www.artifytechspace.com/images/testimonials/Elena Morales.webp",
+                image: "/images/testimonials/Elena Morales.webp",
                 quote: "Artify Tech Space is a game-changer! Their expertise in web development and SEO has significantly boosted our business."
             },
             {
@@ -182,7 +182,7 @@ export const portfolioContent = {
             id: "beauty_branding",
             title: "Beauty Branding",
             category: "Branding",
-            image: "https://www.artifytechspace.com/images/Beauty-Branding.png",
+            image: "/images/Beauty-Branding.png",
             description: "A comprehensive brand identity overhaul for a luxury skincare line, focusing on minimalism and organic aesthetics.",
             techStack: ["Adobe Illustrator", "Figma", "Webflow"],
             features: ["Logo Design", "Packaging Labels", "Brand Style Guide", "E-commerce UI"],
@@ -192,7 +192,7 @@ export const portfolioContent = {
             id: "ecom_branding",
             title: "E-commerce Redesign",
             category: "Branding",
-            image: "https://www.artifytechspace.com/images/Botaniq-E-commerce-Redesign.png",
+            image: "/images/Botaniq-E-commerce-Redesign.png",
             description: "Revitalizing the digital storefront for Botaniq with a focus on user experience and conversion rate optimization.",
             techStack: ["Next.js", "Tailwind CSS", "Shopify API"],
             features: ["Dynamic Animations", "Seamless Checkout", "Personalized Recommendations"],
@@ -202,7 +202,7 @@ export const portfolioContent = {
             id: "crm_branding",
             title: "CRM Development",
             category: "Branding",
-            image: "https://www.artifytechspace.com/images/crm-development.png",
+            image: "/images/crm-development.png",
             description: "A custom-built CRM system designed for high-scale enterprise operations with real-time data synchronization.",
             techStack: ["React", "Node.js", "PostgreSQL", "AWS"],
             features: ["Automated Reporting", "Lead Management", "Role-based Access Control"],
@@ -212,7 +212,7 @@ export const portfolioContent = {
             id: "grow_business_branding",
             title: "Grow Your Business",
             category: "Branding",
-            image: "https://www.artifytechspace.com/images/grow-your-business.png",
+            image: "/images/grow-your-business.png",
             description: "Strategic digital marketing and brand positioning for a fast-growing tech startup in the SaaS space.",
             techStack: ["Google Analytics", "HubSpot", "SEO Automation"],
             features: ["Content Strategy", "Performance Marketing", "Social Media Integration"],
@@ -222,7 +222,7 @@ export const portfolioContent = {
             id: "real_estate",
             title: "Real State Website Development",
             category: "Branding",
-            image: "https://www.artifytechspace.com/images/Real-Estate.png",
+            image: "/images/Real-Estate.png",
             description: "A premium real estate listing platform with advanced filtering and 360-degree virtual tour integrations.",
             techStack: ["Next.js", "Three.js", "Mapbox"],
             features: ["Property Matching", "Virtual Tours", "Agent Messaging System"],
